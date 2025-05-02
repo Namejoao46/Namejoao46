@@ -14,14 +14,16 @@
 ---
 
 💻 Desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento fullstack, explorando tanto o front-end quanto o back-end.
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UCB  
-💼 Apaixonado por tecnologia e desenvolvimento de software  
-🚀 Em busca de oportunidades para crescer e contribuir com projetos desafiadores  
+
+-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UCB  
+-💼 Apaixonado por tecnologia e desenvolvimento de software  
+-🚀 Em busca de oportunidades para crescer e contribuir com projetos desafiadores  
 
 ---
 
 ### 🛠️ Tecnologias que utilizo no dia a dia:
 
+---
 
 <div style="display: inline_block"><br/>
 
