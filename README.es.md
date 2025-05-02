@@ -8,6 +8,11 @@
 
 💻 Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Actualmente enfocado en el desarrollo fullstack, explorando tecnologías tanto del front-end como del back-end.
 
+-🎓 Estudiante de Análisis y Desarrollo de Sistemas en la UCB                                                                                                       
+-💼 Apasionado por la tecnología y el desarrollo de software                                                                                                        
+-🚀 En busca de oportunidades para crecer y contribuir en proyectos desafiantes
+
+
 ---
 
 ### 🛠️ Tecnologías que uso diariamente
