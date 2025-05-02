@@ -6,7 +6,11 @@
 
 ---
 
-💻 I'm a passionate developer who loves technology and continuous learning. Currently focused on fullstack development, exploring both front-end and back-end technologies.
+💻 I'm a passionate developer who loves technology and continuous learning. Currently focused on fullstack development, exploring both front-end and back-end technologies.  
+
+-🎓 Student of Systems Analysis and Development at UCB.                                                                                                             
+-💼 Passionate about technology and software development.                                                                                                           
+-🚀 Seeking opportunities to grow and contribute to challenging projects.
 
 ---
 
