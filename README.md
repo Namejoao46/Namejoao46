@@ -103,3 +103,7 @@
 
 🚀 Sempre aprendendo e curioso sobre programação! Em busca de oportunidades para crescer e contribuir com projetos reais.
 
+![snake gif](https://github.com/Namejoao46/Namejoao46/blob/output/github-contribution-grid-snake.svg)
+
+
+[readme](https://github-readme-stats.vercel.app/api/pin/?username=Namejoao46&repo=Namejoao46&theme=react)(https://github.com/Namejoao46/Namejoao46)
