@@ -12,9 +12,9 @@
 
 ### 👋 Olá! Eu sou o João Paulo 😎
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_paulo752/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-araujo-valverde-de-souza-4256b9207/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ADEF)](https://www.instagram.com/joao_paulo752/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ADEF)](https://www.linkedin.com/in/jo%C3%A3o-paulo-araujo-valverde-de-souza-4256b9207/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ADEF)](mailto:seuemail@example.com)
 
 ---
 
@@ -33,43 +33,62 @@
 <div style="display: inline_block"><br/>
 
 ### 🖥️ Linguagens  
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">  
-<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">  
-<img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
-<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">  
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">  
+<!-- HTML5 -->
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=blue">
+<!-- CSS3 (logo atualizado para logo=css3, que funciona corretamente) -->
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=w3c&logoColor=blue">
+<!-- Java -->
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=blue">
+<!-- C# (A solução FUNCIONAL é usar o logo do .NET) -->
+<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=blue">
+<!-- C++ -->
+<img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=blue">
+<!-- C -->
+<img align="center" alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=blue">
+<!-- Python -->
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue">
+<!-- JavaScript -->
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=blue">
+<!-- TypeScript -->
+<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue">
 
 ### ⚙️ Frameworks  
-<img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">  
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  
-<img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">  
-<img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">  
-<img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">  
-<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">  
+<!-- Angular -->
+<img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=1E90FF">
+<!-- React -->
+<img align="center" alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=1E90FF">
+<!-- Spring Boot -->
+<img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=1E90FF">
+<!-- Flask -->
+<img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=1E90FF">
+<!-- Express.js -->
+<img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=1E90FF">
+<!-- Node.js -->
+<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=1E90FF">
 
 ### 💾 Banco de Dados  
-<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">  
+<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ADEF">
 
 ### 🔐 Autenticação  
-<img align="center" alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  
-<img align="center" alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">  
+<!-- Spring Security -->
+<img align="center" alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-000000?style=for-the-badge&logo=spring&logoColor=1E90FF">
+<!-- JWT -->
+<img align="center" alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=1E90FF">
 
 ### 🛠️ Infraestrutura  
-<img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">  
-<img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
-<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
+<img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00ADEF">  
+<img align="center" alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ADEF">  
+<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ADEF">  
 
 </div>
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Namejoao46&show_icons=true&theme=midnight-purple)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Namejoao46&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namejoao46&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Namejoao46&layout=compact&theme=midnight-purple)
 
 ---
 
