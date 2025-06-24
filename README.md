@@ -5,6 +5,11 @@
 <a href="README.es.md">🇪🇸 Español</a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e0e3fe4-4cd2-43e2-830e-b0f74d117435" alt="Imagem Centralizada" />
+</p>
+
+
 ### 👋 Olá! Eu sou o João Paulo 😎
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_paulo752/)
