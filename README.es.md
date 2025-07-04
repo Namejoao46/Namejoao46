@@ -89,6 +89,7 @@
 ### 🎓 Educación y Certificaciones
 
 - 🎓 Cursando Análisis y Desarrollo de Sistemas - UCB
+- 🌐 Santander Bootcamp 2023 - Full Stack con Java y Angular - DIO
 - 🧪 Certificación en Pruebas (CTFL) - BSTQB
 - 🚀 Trilla Digital Coders 2024 - ADA
 - 🖥️ Curso de C# - UDEMY
