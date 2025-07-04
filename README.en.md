@@ -82,6 +82,7 @@
 ### 🎓 Education & Certifications
 
 - 🎓 Bachelor's in Systems Analysis and Development - UCB (ongoing)
+- 🌐 Santander Bootcamp 2023 – Full Stack with Java and Angular - DIO
 - 🧪 Testing Certification (CTFL) - BSTQB
 - 🚀 ADA Digital Coders 2024 Track - Certified
 - 🖥️ C# Course - UDEMY
